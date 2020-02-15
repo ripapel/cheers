@@ -39,6 +39,7 @@ export default function SearchParams() {
                 <button>Advanced</button>
                 <div>
                     <label htmlFor="ingredient">
+                        Ingredients
                         <select
                             id="ingredient"
                             value={ingredient}
